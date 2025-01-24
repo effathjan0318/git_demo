@@ -1,0 +1,2 @@
+soap 2 quantity 
+ice cream 250 gm 
